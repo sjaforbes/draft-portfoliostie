@@ -1,0 +1,36 @@
+* { 
+font-family: 'Montserrat', sans-serif;
+ }
+
+body { 
+ background-color: #eeeeee }
+
+ hr { 
+ margin:0px; }
+
+ #headshot { 
+ float: left;
+ width: 300px;
+ height: 300px;
+ border-radius: 50% }
+
+ #hero { 
+margin-top: 10rem;
+ border: 1px red solid;
+
+} 
+#previous-work { 
+margin-top: 10rem; 
+height:500px; /* Temp */ 
+ }
+
+ #p-intro { 
+border-bottom:1px solid #7971ea; 
+margin-top: 1rem;  
+  }
+
+
+
+  h1 { 
+border-bottom:1px solid #7971ea; 
+   }
