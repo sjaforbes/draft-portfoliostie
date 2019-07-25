@@ -9,7 +9,7 @@ body {
  margin:0px; }
 
  #headshot { 
- float: left;
+/* float: left;*/
  width: 300px;
  height: 300px;
  border-radius: 50% }
@@ -21,7 +21,7 @@ margin-top: 10rem;
 } 
 #previous-work { 
 margin-top: 10rem; 
-height:500px; /* Temp */ 
+/*height:500px; *//* Temp */ 
  }
 
  #p-intro { 
